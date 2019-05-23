@@ -121,7 +121,7 @@ public class TechJobs {
             }
         }
             else {
-                System.out.println("Search returned 0 results");
+                System.out.println("Search returned 0 results.");
             }
     }
 
